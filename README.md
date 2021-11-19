@@ -36,7 +36,7 @@
 
 # [![Rahim's github trophy](https://github-profile-trophy.vercel.app/?username=RahiMedouni&row=1)](https://github.com/RahiMedouni/github-profile-trophy)
 
-# [![Rahim's github streak](https://github-readme-streak-stats.herokuapp.com/?user=RahiMedouni&theme=blue-green)](https://https://github.com/RahiMedouni/github-readme-streak-stats)
+# [![Rahim's github streak](https://github-readme-streak-stats.herokuapp.com/?user=RahiMedouni&theme=blue-green)](https://github.com/RahiMedouni/github-readme-streak-stats)
 
 # [![Rahim's github stats](https://github-readme-stats.vercel.app/api?username=RahiMedouni&theme=blue-green)](https://github.com/RahiMeduni/github-readme-stats)
 
